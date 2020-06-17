@@ -1,1 +1,2 @@
-# m-dulo_ra-02
+## Ra-02
+Modelo 3D para el módulo fisico ra-02. 
